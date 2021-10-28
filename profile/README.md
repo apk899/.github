@@ -25,7 +25,7 @@ To Upload an App, Click on the "Upload / Submit App" button right here:
 
 [![](https://img.shields.io/badge/Uplaod_/_Sumbit_App-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apk899/.github/issues/new/choose)
 
-Then add your app info. App Name in Title, App Description in Description (Also don't forforget add APK link) as shown in theforget
+Then add your app info. App Name in Title, App Description in Description (Also don't forget add APK link) as shown in here:
 ![](https://github.com/apk899/.github/blob/main/astis.PNG)
 
 After it, Click on "Submit new Issue" button, Your app will be Submitted under 2 days.
