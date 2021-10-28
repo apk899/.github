@@ -13,11 +13,12 @@ offer one of the most comprehensive collections of Apps, Games, and history vers
 extension needed. We believe all you guys deserve a better way to enjoy mobile life. Apk889 team is always ready to help all users 
 solve their problems about smartphones app installation, updates, and more.
 
-<!--
-## Upload / Request an App
+## Upload / Sumbit an App
 To Upload an App, Click on the "Upload / Submit App" button right here:
 
 [![](https://img.shields.io/badge/Uplaod_/_Sumbit_App-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apk899/.github/issues/new/choose)
 
-Then
- -->
+Then add your app info. App Name in Title, App Description in Description (Also don't forgot to add APK link) as shown in the image:
+![](https://github.com/apk899/.github/blob/main/astis.PNG)
+
+After it, Click on "Sumbit new Issue" button, Your App will be Sumbitted under 2 days.
