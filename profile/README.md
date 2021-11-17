@@ -13,7 +13,7 @@ solve their problems about smartphones app installation, updates, and more.
 - 🛠️ Developers can Upload as many apps as they want
 - 📖 Less problem, More doing. We belive in you! 
 - 📝 Only shares Orignal APK files, No Patch
-- 📂 Need help? [Join Our Discord Server](https://discord.gg/vAKPqTmxsn) 
+- 📂 Need help? [Contact me on Discord](https://discord.com/users/787570670409613332/) 
 - ☕ Developed by [@ashleysato899](https://github.com/AshleySato899?) (Owner of This Website)
 - 🌎 Everything in the world is connected in some way
 
